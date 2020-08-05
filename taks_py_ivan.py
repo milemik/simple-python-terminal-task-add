@@ -3,9 +3,9 @@ import argparse
 from datetime import datetime
 import os
 import json
-import conf
+import taskspy_conf
 
-path_to_txt_file = conf.PATH_TO_FILE
+path_to_txt_file = taskspy_conf.PATH_TO_FILE
 file_name = "TASKS_DATA.json"
 
 parse = argparse.ArgumentParser()
