@@ -1,3 +1,4 @@
 myconf.py
 __pycache__/
 mytaskspy_conf.py
+*.json
